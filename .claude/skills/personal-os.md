@@ -18,10 +18,27 @@ Guide users through a structured self-discovery process that results in:
 ## How to Invoke
 
 Users can start with:
-- `/personal-os` - Begin full interactive session
+- `/personal-os` - Begin full interactive session (adaptive questions)
 - `/personal-os quick` - 30-minute quick start version
 - `/personal-os analyze` - Analyze their already-completed thought dump
 - `/personal-os resume` - Resume a previous session
+
+## Key Difference: Adaptive vs. Generic Questionnaire
+
+**The interactive skill uses ADAPTIVE questioning** - questions are customized based on what the user wrote in their thought dump. This is different from the self-guided templates (which use a generic 22-question questionnaire).
+
+**Why adaptive is better:**
+- Questions are directly relevant to THEIR situation
+- Feels like a conversation, not a form
+- Digs into patterns they might not notice themselves
+- More efficient - asks 10-15 targeted questions vs. 22 generic ones
+- Creates aha moments through real-time pattern recognition
+
+**When to use generic questionnaire:**
+- Self-guided mode (working solo without AI)
+- Want more structure/comprehensiveness
+- Prefer to answer all questions then analyze
+- Using with a peer partner
 
 ## Session Flow
 
@@ -58,162 +75,207 @@ Guide them through brain dump with these prompts:
 
 **Store their responses** - you'll analyze these later.
 
-### Phase 3: Personality Questionnaire (20-30 minutes)
+### Phase 3: Adaptive Questionnaire (20-30 minutes)
 
-**Explain:** "Now I'll ask you structured questions to map your personality architecture. Answer honestly based on how you ACTUALLY are, not how you think you should be."
+**CRITICAL:** Questions are CUSTOMIZED based on their thought dump. DO NOT ask generic questions everyone gets. Ask SPECIFIC questions based on what THEY wrote.
 
-#### Section 1: Energy Sources (Questions 1-3)
+**Explain:** "Based on what you shared, I have some specific questions to dig deeper into your patterns. These are tailored to YOU, not generic questions everyone gets."
 
-**Q1: Peak Moments**
-"Think of 3-5 moments in the past year when you felt most ALIVE - not just accomplished, but truly energized, time disappeared. What TYPE of moments were these?"
+**How to Generate Questions:**
 
-Present options:
-- Learning/discovering something new
-- Building/launching something tangible
-- Teaching/sharing/connecting with others
-- Physical/sensory experiences (travel, movement, new places)
+1. **Analyze their thought dump** for key themes:
+   - How many goals? (volume issue?)
+   - What types? (creating, learning, experiencing, connecting?)
+   - Mentions of exhaustion/overwhelm/guilt?
+   - Family/relationships mentioned?
+   - Work tensions mentioned?
+   - Multiple identities/roles?
+   - Comparison to others?
+   - Perfectionism signs?
+   - Revenue/financial mentions?
 
-*(Allow multiple selections. Ask for specific examples.)*
+2. **Generate 10-15 targeted questions** (NOT the full 22) that:
+   - Probe patterns YOU noticed in their dump
+   - Clarify contradictions or tensions
+   - Dig into what they glossed over
+   - Test hypotheses about their wiring
 
-**Q2: Natural Pull**
-"You have 3 unexpected hours of free time and full energy, no obligations. What do you ACTUALLY find yourself doing? Be honest, not aspirational."
+3. **Ask conversationally**, not as a list. Each answer informs the next question.
 
-Present options:
-- Working on a creative project
-- Learning/exploring something new
-- Organizing/strategizing systems
-- Going somewhere or moving (walking, exploring)
+**Example Pattern Recognition & Question Generation:**
 
-**Q3: Energy Drain**
-"When you feel completely DRAINED - not just tired, but depleted - what usually caused it? Think patterns, not one-off days."
+**IF they list 15+ goals:**
+→ Ask: "You have a lot of exciting goals - about 15 things you want to pursue. When you think about all of these, what's the feeling? Excited? Overwhelmed? Both?"
+→ Follow-up: "If you could only actively work on 3-5 things this quarter, which ones are calling to you most right now?"
 
-Present options (allow multiple):
-- Too much consuming, not enough creating
-- Stuck in one mode too long
-- Managing difficult people/relationships
-- Not enough movement or place-change
+**IF they mention family multiple times:**
+→ Ask: "I noticed family appeared several times in your accomplishments - taking your grandma to Madurai, luxury stays with family. How central is family to your life architecture? Are they a sidebar or the anchor?"
 
-*(If they describe something not in the options, note it - custom exhaustion triggers are valuable)*
+**IF they mention guilt about rest:**
+→ Ask: "You mentioned feeling guilty when not producing. Walk me through a rest day - what happens internally? What's the voice saying?"
 
-#### Section 2: Decision Architecture (Questions 4-6)
+**IF they mention revenue/monetization a lot:**
+→ Ask: "Multiple revenue streams came up several times. What's really driving that? Financial security? Proving each identity is viable? Not wanting to depend on one thing?"
 
-**Q4: Worth Filter**
-"Looking at your goals from earlier, pick one you're excited about. What makes it feel WORTH pursuing to you?"
+**IF they list creative + analytical goals:**
+→ Ask: "You've got both creative pursuits (art, writing) and analytical work (tech, strategy). Do these feel like different people, or are they integrated for you?"
 
-Present options (allow multiple):
-- Could become a revenue stream
-- Fills a skill/knowledge gap
-- Connects to community/culture
-- Produces something tangible to share
+**IF they mention comparison/feeling behind:**
+→ Ask: "You said 'the world is racing ahead' - who or what are you measuring yourself against? What would 'caught up' look like?"
 
-**Q5: Revenue Drive** (if applicable)
-"If you mentioned multiple revenue streams or financial goals, what's REALLY driving that desire? Be honest, not what sounds good."
+**IF they mention physical activities (walking, sports, travel):**
+→ Ask: "Walking and movement keep appearing. What happens to your thinking when you're moving vs. sitting still?"
 
-Present options:
-- Financial security/freedom
-- Validation that work matters
-- Identity diversification (not wanting to be just one thing)
-- Building things that sustain themselves
+**IF work dominates their current state:**
+→ Ask: "Work feels like it's taking most of your bandwidth right now. What does your ideal relationship with work look like? Not 'balance' - but how do you want it to fit into your life?"
 
-**Q6: Depth vs. Breadth**
-"Which statement feels more TRUE to who you are?"
+#### Adaptive Question Flow
 
-Present options:
-- I want excellence in a few areas (deep mastery matters more)
-- I want capability across many areas (range over depth)
-- I want one anchor + many satellites (deep in ONE thing, explore many others)
-- I'm still figuring this out (torn between depth and breadth)
+**Ask 10-15 questions TOTAL, based on THEIR patterns. Examples:**
 
-#### Section 3: Mode Switching (Questions 7-9)
+**Pattern: They listed many creative accomplishments (art, launches, builds)**
+→ Q: "Looking at your accomplishments - you launched X, created Y, built Z. When you're in that creation mode, what's happening? Are you energized or depleted after?"
+→ Q: "Does everything you create need to be seen by others? Or do you do private creation just for yourself?"
+→ Q: "What's your relationship with 'good enough' vs. 'perfect'? Do you ship scrappy or polish first?"
 
-**Q7: Home Base Mode**
-"You operate in different modes - builder, learner, teacher, experiencer. Which feels like HOME BASE - the one you could stay in longest without draining?"
+**Pattern: They mentioned feeling overwhelmed/behind despite accomplishments**
+→ Q: "You accomplished a LOT this year, but mentioned feeling behind. Who or what are you comparing yourself to?"
+→ Q: "When you scroll social media and see others' wins, what happens internally?"
+→ Q: "If I asked you to rate yourself, would you look at what you DID or what you didn't finish yet?"
 
-Present options:
-- Builder/Creator mode
-- Learner/Explorer mode
-- Teacher/Sharer mode
-- Experiencer/Wanderer mode
+**Pattern: They have both work goals and creative/learning goals**
+→ Q: "You've got professional goals and creative/learning pursuits. Do you want one anchor + many explorations? Or do you want to be equally excellent at everything?"
+→ Q: "When you have 3 free hours, what do you actually find yourself doing? Working on creative projects? Learning something new? Or just resting?"
+→ Q: "How long can you stay in one mode (like work mode or creative mode) before you need to switch?"
 
-**Q8: Mode Duration**
-"How long can you stay in ONE mode before you NEED to switch contexts?"
+**Pattern: Family appeared in accomplishments**
+→ Q: "Family showed up prominently - the trip with your grandma, time with [specific people]. How central are they to your life design? Sidebar or foundation?"
+→ Q: "When you make decisions about opportunities, does family factor in? How?"
 
-Present options:
-- A few hours max (need variety within a day)
-- 1-2 days (can have dedicated days then switch)
-- A week or so
-- It varies wildly
+**Pattern: Multiple identity markers (job title + artist + teacher, etc.)**
+→ Q: "You're wearing multiple hats - [list their identities]. Does one feel like the 'real' you? Or are all of them equally you?"
+→ Q: "Does being [job title] limit your identity as [creative identity]? Or do they integrate?"
+→ Q: "What's really driving the desire for multiple revenue streams - financial security? Proving each identity is viable? Not being dependent on one thing?"
 
-**Q9: Work Tension** (if they mentioned work issues)
-"What's the real tension with work for you?"
+**Pattern: Mentions of guilt, rest, productivity**
+→ Q: "You mentioned guilt about rest. Walk me through a rest day - what's the internal voice saying?"
+→ Q: "When you're walking or cooking or just experiencing something, is there a voice saying 'this isn't productive'?"
+→ Q: "What would give you permission to rest without guilt?"
 
-Present options (allow multiple):
-- Work takes too much time/energy
-- Work limits my identity
-- Work requires too much presence (location/schedule constraints)
-- Work isn't the problem, it's the type
+**Pattern: Movement/walking/travel frequently mentioned**
+→ Q: "Walking and movement keep showing up. What happens to your thinking when you're moving vs. sitting?"
+→ Q: "Is movement exercise for you, or is it something else - like how you process?"
+→ Q: "When you're stuck or overwhelmed, do you naturally want to move/walk?"
 
-#### Section 4: Social & Nuances (Questions 10-14)
+**Pattern: Work tensions mentioned**
+→ Q: "You mentioned work [dominating/constraining/feeling misaligned]. What's the real issue - the type of work, the amount, the structure, or something else?"
+→ Q: "If you could redesign your work situation, what would change?"
+→ Q: "Is work itself the problem, or is it that work is consuming the bandwidth you need for other identities?"
 
-**Q10: Exhausting People**
-"If you've cut off or distanced from people, what made them exhausting?"
+**Pattern: Teaching/sharing accomplishments (workshops, coaching, content)**
+→ Q: "You did a lot of teaching/sharing this year. After those sessions, are you energized or depleted?"
+→ Q: "Does the energy depend on the audience? What makes teaching energizing vs. draining?"
+→ Q: "Are you teaching to give back, to process your own learning, or to validate your expertise?"
 
-Present options (allow multiple):
-- They only took, never gave
-- They didn't respect my multiplicity
-- They were performing, not genuine
-- They drained with negativity/drama
+**Pattern: First times / milestone collecting (first snow, first X before 30, etc.)**
+→ Q: "You listed several 'first time' moments. Are you checking boxes off a list, or genuinely pulled to these experiences?"
+→ Q: "What do these milestones give you? Adventure? Proof you're living fully? Something else?"
 
-**Q11: Who You Create For**
-"When you create something, who's the imagined person experiencing it?"
+**Pattern: Cultural/heritage elements (kutcheris, heritage walks, hometown visits)**
+→ Q: "Cultural elements keep appearing - [specific examples]. How important is cultural rootedness vs. being cosmopolitan/global?"
+→ Q: "Are you preserving tradition as-is, or translating it on your own terms?"
 
-Present options:
-- A specific type of person I know well
-- A past version of myself
-- A community/culture I'm building
-- Honestly, mostly validating it's real
+**Pattern: Quality/aesthetics emphasized (professional editing, luxury stays, nice products)**
+→ Q: "You invested in quality - professional editing, [other examples]. How important is craft/aesthetics to you?"
+→ Q: "Does everything you put out need to meet a high bar? Or can you be scrappy in process and polished in output?"
 
-**Q12: Milestones**
-"Looking at your goals - are you checking boxes or genuinely pulled?"
+**ALWAYS ASK (Core Questions for Everyone):**
 
-Present options:
-- Genuinely pulled - curiosity drives it
-- Bit of both - structure for wandering
-- Honestly checking boxes
-- Used to be boxes, now genuine
+Even with adaptive questioning, ALWAYS get clarity on these core dimensions:
 
-**Q13: Quality Bar**
-"How important is quality/craft/aesthetics vs. just getting it done?"
+1. **Energy recharge:** "What mode could you stay in longest without draining - building/creating, learning/exploring, teaching/sharing, or experiencing/wandering?"
 
-Present options:
-- Quality is everything
-- Quality in output, scrappy in process
-- Good enough is fine
-- Context-dependent
+2. **Exhaustion trigger:** "When you feel completely depleted, what's usually the pattern? Too many things at once? Everything public? Stuck in one mode? Something else?"
 
-**Q14: Current Reality**
-"If you mentioned stress or overwhelm, what's the current reality you're trying to shift away from?"
+3. **Depth vs. breadth:** "Given everything you want to do - do you want excellence in a few areas, capability across many, or one deep anchor with many explorations?"
 
-Present options (allow multiple):
-- Work dominates everything
-- I feel guilty when not producing
-- I swing between extremes
-- External pressure to constantly achieve
+4. **What makes it worth it:** "For something to be worth pursuing, what boxes does it need to check? Revenue potential? Fills skill gap? Connects to community? Produces something tangible?"
 
-### Phase 4: Real-Time Analysis (10 minutes)
+5. **Current reality shift:** "What's the current reality you're trying to shift away from? What needs to change?"
 
-**As they answer, start forming hypotheses:**
+**Example Adaptive Flow for Someone with 15 Goals, Mentions of Overwhelm, Creative + Work Identities:**
 
-Note patterns like:
+"Based on what you shared, I want to understand a few things...
+
+First, you listed about 15 exciting goals - everything from ceramics to 3D printing to launching products to badminton. When you see this whole list, what's the feeling? Excited? Overwhelmed? Both?"
+
+[They answer]
+
+"Got it. If you could only actively work on 3-5 of these this quarter, which ones are calling to you most right now? Not 'should' - which ones have genuine pull?"
+
+[They answer]
+
+"Interesting choices. Now you mentioned feeling 'behind' despite accomplishing a lot this year. When you're in that comparison space, who or what are you measuring yourself against?"
+
+[They answer]
+
+"And when you have 3 free hours - no obligations, full energy - what do you actually find yourself doing? Working on creative projects? Learning something new? Or something else?"
+
+[They answer]
+
+"So you create in your discretionary time. Here's a key question: when you're in that creation mode - making art, building products - are you energized after, or depleted?"
+
+[They answer]
+
+"One more on creation: does everything you make need to be seen by others? Or do you do private messy creation just for yourself?"
+
+[They answer - if they say "everything needs to be public"]
+
+"That's a pattern I'm noticing - might be an exhaustion source. We'll come back to that.
+
+Now, you're wearing multiple hats - you're a [job title] AND [creative identity] AND [other roles]. Does one of these feel like the 'real' you? Or are they all equally you?"
+
+[They answer]
+
+"And how long can you stay in one mode - like just work mode, or just creative mode - before you need to switch?"
+
+[They answer]
+
+[Continue with 6-8 more questions based on their specific patterns...]"
+
+### Phase 4: Conversational Analysis (Happens Throughout)
+
+**CRITICAL: This is a CONVERSATION, not a form.**
+
+As they answer each question:
+
+1. **Listen for patterns** in real-time
+2. **Reflect back** what you're noticing
+3. **Test hypotheses** with follow-up questions
+4. **Make connections** between their answers
+
+**Example Conversational Analysis:**
+
+"Interesting - you said you feel most alive when learning and building new things, but when you're exhausted it's usually from having too many projects at once. That suggests it's not the ACTIVITIES draining you, it's the VOLUME. Do you feel that?"
+
+[They respond]
+
+"And here's something I'm noticing - you create in your free time, but you said your home base is walking/experiencing. So creation is satisfying but experiencing is restorative. Those are different. Right now, are you getting enough of the restorative mode?"
+
+[They respond]
+
+"One more pattern: you mentioned everything you create tends to go public - Instagram posts, launches, sharing. Do you ever create just for yourself? Messy stuff no one sees?"
+
+[If no] "That might be part of the exhaustion. When everything counts publicly, there's no private space to just process. We should talk about that."
+
+**As You Go, Note:**
 - Energy sources (creation/acquisition/exchange/experience)
-- Home base vs. discretionary time default (do they differ?)
-- Primary drain triggers
-- Core drive (identity diversification, security, validation, etc.)
+- Home base vs. discretionary time (if different, this is KEY)
+- Primary drain triggers (volume/public pressure/comparison/etc.)
+- Core drive (identity diversification, security, validation, capability building)
 - Depth vs. breadth preference
-- Key tensions (future/present, building/processing, public/private)
-
-**Provide interim insights:**
-"I'm noticing something interesting - you said your home base is Experiencer/Wanderer, but when you have free time, you create. That suggests creation is satisfying but not necessarily restorative for you. Does that resonate?"
+- Key tensions (future/present, building/processing, public/private, work/life)
+- Contradictions (these reveal active navigation)
 
 ### Phase 5: Comprehensive Analysis (5-10 minutes)
 

@@ -7,6 +7,18 @@
 
 ---
 
+## 📝 Note: Interactive vs. Self-Guided
+
+**If using the interactive skill (`/personal-os`):** Claude will ask you ADAPTIVE questions based on your specific thought dump - not this generic questionnaire. Questions will be customized to YOUR patterns. This is more conversational and efficient.
+
+**If using self-guided mode:** Complete this questionnaire. These 22 questions cover all dimensions, even if some aren't relevant to you. You'll analyze your responses afterward.
+
+**Both approaches work!** Adaptive is more personalized, generic is more comprehensive.
+
+---
+
+---
+
 ## Section 1: Energy Sources
 
 ### Q1: Peak Moments
